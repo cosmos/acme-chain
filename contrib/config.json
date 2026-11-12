@@ -1,0 +1,37 @@
+{
+  "_comment": "LOCAL TESTING ONLY. These keys are publicly known test keys; never use them on a real network or to hold value.",
+  "counterparty_chains": {},
+  "validator_wallet": {
+    "name": "val",
+    "address": "acme1ds3zhs29urmxecsvld9vqdcxn99rpdvu4xq22j",
+    "mnemonic": "novel net meadow vague armed frame flight gallery essay that salt loud poverty miracle wood moment express company amateur clump million tomato disease day"
+  },
+  "admin_wallets": [
+    {
+      "name": "denom_admin",
+      "address": "acme1669962acf362y7wcy8plzp5stmalkqyl9nx63f",
+      "mnemonic": "payment bacon electric soul detect whip peasant grace oppose tool insane gentle prison venue visa beach hammer stay notable vocal elite spirit domain lava"
+    },
+    {
+      "name": "dev1",
+      "address": "acme102ph9pljv0rn9np26v5jm68ejyg4fsqkctmsy0",
+      "mnemonic": "slogan zoo fault canyon click potato surge weather scheme letter reflect spirit gloom arrest detect index improve garment during dinosaur snow face tip ripple"
+    },
+    {
+      "name": "dev2",
+      "address": "acme1e3gtwtkyfxu4exl9zpkykgy9grccuclzpa5232",
+      "mnemonic": "dress science wet arrest cycle ugly stereo tell viable glove coral tattoo daughter pistol opinion auction suffer hamster light toy drop fog cross swarm"
+    },
+    {
+      "name": "dev3",
+      "address": "acme1jd2hw2rv40saf6d4uylrf0t3a4t294n5tqc65j",
+      "mnemonic": "day pilot receive goat teach agent luxury lesson apple design hamster donkey wing match kid ship guilt apology engage number control pelican fit plastic"
+    },
+    {
+      "name": "dev4",
+      "address": "acme16uj837wa4yxm0x5yn0e9j7m3dld3v0agtusuwm",
+      "mnemonic": "office boring hobby fuel frog error combine worry start jeans milk trash weather frozen source direct left cereal misery sock wear small gorilla battle"
+    }
+  ],
+  "user_accounts": []
+}

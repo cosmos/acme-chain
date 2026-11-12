@@ -1,0 +1,4 @@
+{
+    "@type": "/ibc.lightclients.wasm.v1.ConsensusState",
+    "data": "ZGVycAo="
+}

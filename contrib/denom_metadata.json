@@ -1,0 +1,25 @@
+[
+    {
+        "description": "Native token for ACME Chain",
+        "denom_units": [
+            {
+                "denom": "uacme",
+                "exponent": 0,
+                "aliases": [
+                    "microuacme"
+                ]
+            },
+            {
+                "denom": "acme",
+                "exponent": 6,
+                "aliases": []
+            }
+        ],
+        "base": "uacme",
+        "display": "acme",
+        "name": "Native-ACME",
+        "symbol": "ACME",
+        "uri": "",
+        "uri_hash": ""
+    }
+]
